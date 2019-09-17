@@ -1,9 +1,0 @@
-plugins:
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
-
-permalink: /
-redirect_to:
-  - https://eclipse-ee4j.github.io/jersey/
